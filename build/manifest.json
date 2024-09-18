@@ -1,0 +1,26 @@
+{
+  "resources/css/reset.css": {
+    "file": "assets/reset-DPlpTzid.css",
+    "src": "resources/css/reset.css",
+    "isEntry": true
+  },
+  "resources/css/site.css": {
+    "file": "assets/site-B3Z_VjEH.css",
+    "src": "resources/css/site.css",
+    "isEntry": true
+  },
+  "resources/img/dust-pattern-dark.png": {
+    "file": "assets/dust-pattern-dark-Bz0O24Ff.png",
+    "src": "resources/img/dust-pattern-dark.png"
+  },
+  "resources/img/dust-pattern-light.png": {
+    "file": "assets/dust-pattern-light-_-7AX2cO.png",
+    "src": "resources/img/dust-pattern-light.png"
+  },
+  "resources/js/site.js": {
+    "file": "assets/site-CarHKK1d.js",
+    "name": "site",
+    "src": "resources/js/site.js",
+    "isEntry": true
+  }
+}
