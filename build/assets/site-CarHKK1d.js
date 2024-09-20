@@ -1,1 +1,0 @@
-function n(){document.getElementById("mobile-nav").classList.add("open")}function o(){const e=document.getElementById("mobile-nav");e.classList.add("closing"),e.addEventListener("animationend",function(){e.classList.remove("open","closing")},{once:!0})}window.openMobileNav=n;window.closeMobileNav=o;
